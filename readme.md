@@ -1,6 +1,6 @@
 #RSStockFighter#
 StockFighter is a really nice (and free) online coding challenge where you need to solve a series of problems by using your coding skills.   You can read about [StockFigher here](https://starfighter.readme.io). 
-RSStockFighter is a framework designed to make interacting with the StockFighter API incredibly easy so you can focus on solving the individual levels rather than the back end code.  You can read about how this framework is designed [here]()
+RSStockFighter is a framework designed to make interacting with the StockFighter API incredibly easy so you can focus on solving the individual levels rather than the back end code.  You can read about how this framework is designed [here](http://masteringswift.blogspot.com/2016/01/rsstockfighter-framework.html)
 
 #Setting up RSStockFighter#
 The first thing you need to do is to add the six RSStockFighter files to your project.  These files are:
